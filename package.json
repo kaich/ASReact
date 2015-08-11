@@ -1,0 +1,16 @@
+{
+  "name": "ASReact",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node_modules/react-native/packager/packager.sh"
+  },
+  "dependencies": {
+    "react-native": "^0.4.4",
+    "react-native-icons": "0.0.8",
+    "react-native-modal": "^0.3.6",
+    "react-native-viewport": "0.0.2",
+    "react-native-viewport-units": "0.0.3",
+    "react-refresh-control": "^2.0.4"
+  }
+}
